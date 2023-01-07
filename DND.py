@@ -217,7 +217,7 @@ class DoNotDisturbMod(loader.Module):
 
     async def afknogroupcmd(self, message):
         """
-        [on/off] - Включение/отключение оповещения о статусе AFK в группах.
+        [off/on] - Включение/отключение оповещения о статусе AFK в группах.
 
         """
         if utils.get_args_raw(message):
@@ -243,7 +243,7 @@ class DoNotDisturbMod(loader.Module):
 
     async def afknopmcmd(self, message):
         """
-        [on/off] - Включение/отключение оповещения статуса AFK в личке.
+        [off/on] - Включение/отключение оповещения статуса AFK в личке.
 
         """
         if utils.get_args_raw(message):
