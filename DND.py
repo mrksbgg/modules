@@ -1,9 +1,4 @@
-# ---------------------------------------------------------------------------------
-#  /\_/\  🌐 This module was loaded through https://t.me/hikkamods_bot
-# ( o.o )  🔐 Licensed under the GNU GPLv3.
-#  > ^ <   ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
-# ---------------------------------------------------------------------------------
-# Name: dnd
+# Name: DND
 # Description: DND (Do Not Disturb) :
 # -> Предотвращает отправку людьми вам нежелательных личных сообщений.
 # -> Предотвращает беспокойство, когда вы недоступны.\n
