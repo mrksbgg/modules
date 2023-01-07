@@ -1,2 +1,2 @@
 # modules
-Переведенные и возможно в будущем мною написанные модули для юзербота Telegram
+Translated and possibly in the future written modules for the Telegram userbot
