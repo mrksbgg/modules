@@ -77,7 +77,7 @@ class DoNotDisturbMod(loader.Module):
         "afk_reason": (
             "<b><emoji document_id=5242500556819274882>⛔️</emoji> I'm AFK right now (since {} ago).</b>" "\n\n<b>Reason :</b> <i>{}</i>"
         ),
-        "arg_on_off": "<b><emoji document_id=5203980348056149676>👨‍💻</emoji> Argument must be `off` or `on`!</b>",
+        "arg_on_off": "<b><emoji document_id=5203980348056149676>👨‍💻</emoji> Argument must be <code>off</code> or <code>on</code>!</b>",
         "pm_off": (
             "<b><emoji document_id=5246885387716011812>🫥</emoji> Automatic answer for denied PMs disabled."
             "\n\n<emoji document_id=5388929052935462187>😎</emoji> Users are now free to PM !</b>"
@@ -94,7 +94,7 @@ class DoNotDisturbMod(loader.Module):
             "\n\n<emoji document_id=5226772700113935347>📞</emoji> Please contact me in a group, or <b>wait</b> for me to approve you."
         ),
         "pm_reported": "<b><emoji document_id=5465432711218863135>♨️</emoji> You just got reported to spam !</b>",
-        "pm_limit_arg": "<b><emoji document_id=5203980348056149676>👨‍💻</emoji> Argument must be `off`, `on` or a number between 5 and 1000!</b>",
+        "pm_limit_arg": "<b><emoji document_id=5203980348056149676>👨‍💻</emoji> Argument must be <code>off</code>, <code>on</code> or a number between 5 and 1000!</b>",
         "pm_limit_off": "<b><emoji document_id=5188391205909569136>✅</emoji> Not allowed users are now free to PM without be automatically blocked.</b>",
         "pm_limit_on": "<b><emoji document_id=5972201876773408053>🚫</emoji> Not allowed users are now blocked after {} PMs.</b>",
         "pm_limit_current": "<b><emoji document_id=5467890025217661107>‼️</emoji> Current limit is {}.</b>",
@@ -144,7 +144,7 @@ class DoNotDisturbMod(loader.Module):
         "afk_reason": (
             "<b><emoji document_id=5242500556819274882>⛔️</emoji> Я сейчас не в сети (был в сети {} назад).</b>" "\n\n<b>Причина:</b> <i>{}</i>"
         ),
-        "arg_on_off": "<b><emoji document_id=5203980348056149676>👨‍💻</emoji> Аргумент должен быть `on` или `off`!</b>",
+        "arg_on_off": "<b><emoji document_id=5203980348056149676>👨‍💻</emoji> Аргумент должен быть <code>on</code> или <code>off</code>!</b>",
         "pm_off": (
             "<b><emoji document_id=5246885387716011812>🫥</emoji> Автоматический ответ на отклоненное личное сообщение отключен."
             "\n\n<emoji document_id=5388929052935462187>😎</emoji> Пользователи теперь могут свободно писать в личные сообщения!</b>"
@@ -161,7 +161,7 @@ class DoNotDisturbMod(loader.Module):
             "\n\n<emoji document_id=5226772700113935347>📞</emoji> Пожалуйста, свяжитесь со мной в группе или <b>подождите</b> пока я свяжусь с вами здесь."
         ),
         "pm_reported": "<b><emoji document_id=5465432711218863135>♨️</emoji> Вы получили жалобу за спам!</b>",
-        "pm_limit_arg": "<b><emoji document_id=5203980348056149676>👨‍💻</emoji> Аргумент должен быть `on`, `off` или любое число от 5 до 1000!</b>",
+        "pm_limit_arg": "<b><emoji document_id=5203980348056149676>👨‍💻</emoji> Аргумент должен быть <code>on</code>, <code>off</code> или любое число от 5 до 1000!</b>",
         "pm_limit_off": "<b><emoji document_id=5188391205909569136>✅</emoji> Любые пользователи теперь могут свободно отправлять сообщения в личку без автоматической блокировки.</b>",
         "pm_limit_on": "<b><emoji document_id=5972201876773408053>🚫</emoji> Незнакомые пользователи теперь блокируются после {} сообщений</b>",
         "pm_limit_current": "<b><emoji document_id=5467890025217661107>‼️</emoji> Текущий лимит {}.</b>",
