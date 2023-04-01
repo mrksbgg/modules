@@ -4,7 +4,7 @@
 # -> Предотвращает беспокойство, когда вы недоступны.\n
 # Commands :
 # Author: HitaloSama
-# Переводчик на русский: bertidan
+# Переводчик на русский: nixend
 # Commands:
 # .unafk   | .afk     | .afknogroup | .afknopm | .afknotif
 # .afkrate | .allow   | .block      | .deny    | .pm      
@@ -29,7 +29,7 @@
 #    You should have received a copy of the GNU Affero General Public License
 #    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# Перевел на русский @bertidan
+# Перевел на русский @nixend
 
 from .. import loader, utils
 
@@ -49,7 +49,7 @@ class DoNotDisturbMod(loader.Module):
     -> Предотвращает отправку людьми вам нежелательных личных сообщений.
     -> Предотвращает беспокойство, когда вы недоступны.\n
     Автор: HitaloSama
-    Переводчик: bertidan\n
+    Переводчик: nixend\n
     Команды:
 
     """
